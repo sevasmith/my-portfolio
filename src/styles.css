@@ -244,7 +244,7 @@ section {
 }
 
 .icon {
-  height: 2rem;
+  height: 2.5rem;
   cursor: pointer;
 }
 
@@ -404,8 +404,8 @@ article {
   font-size: larger;
 }
 
-.email-icon {
-  height: 2.5rem;
+.contact-linkedin-icon {
+  height: 2rem;
 }
 
 /* FOOTER */

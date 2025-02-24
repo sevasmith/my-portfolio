@@ -11,7 +11,7 @@ export default function Contact() {
           <img
             src={email}
             alt="Email icon"
-            className="icon contact-icon email-icon"
+            className="icon"
           />
           <p>
             <a href="mailto:seva.kavalenka@gmail.com">
@@ -23,7 +23,7 @@ export default function Contact() {
           <img
             src={linkedinIcon}
             alt="LinkedIn icon"
-            className="icon contact-icon"
+            className="icon contact-linkedin-icon"
           />
           <p>
             <a href="https://www.linkedin.com/in/sevasmith/" target="_blank">

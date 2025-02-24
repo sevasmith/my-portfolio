@@ -11,8 +11,9 @@
     display: block;
   }
 
-  a, button {
-    font-size: 1rem;
+  a,
+  button {
+    font-size: 14px;
   }
 
   section {
@@ -37,10 +38,6 @@
 
   .section-text {
     margin-top: 4rem;
-  }
-
-  .btn-color-1, .btn-color-2 {
-    width: 8.7rem;
   }
 
   #experience {
@@ -96,7 +93,7 @@
     height: 40vh;
   }
 
-  .btn-container{
+  .btn-container {
     flex-wrap: wrap;
   }
 
@@ -109,8 +106,7 @@
     margin: 0;
   }
 
-  .contact-info-container p,
-  .nav-links a {
+  .contact-info-container a{
     font-size: 1rem;
   }
 
@@ -120,6 +116,16 @@
     text-align: center;
   }
 
+  .nav-links a {
+    padding: 0;
+    line-height: 2rem;
+    font-size: 1rem;
+  }
+
+  .nav-links a:hover {
+    border: 0.1rem solid transparent;
+  }
+
   footer {
     height: 40vh;
   }
@@ -127,14 +133,5 @@
   footer nav {
     height: fit-content;
     margin-bottom: 2rem;
-  }
-
-  .nav-links a {
-    padding: 0;
-    line-height: 2rem;
-  }
-
-  .nav-links a:hover {
-    border: 0.1rem solid transparent;
   }
 }
