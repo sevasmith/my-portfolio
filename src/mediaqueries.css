@@ -72,7 +72,7 @@
   }
 
   .section-pic-container {
-    height: 46vw;
+    height: 60vw;
     width: auto;
     justify-content: center;
   }
@@ -100,6 +100,7 @@
   .contact-info-upper-container {
     flex-wrap: wrap;
     gap: 1rem;
+    border: none;
   }
 
   .contact-info-container {

@@ -10,7 +10,7 @@ export default function About() {
       <p className="section-text-p1">Get To Know More</p>
       <h1 className="title">About Me</h1>
       <div className="section-container">
-        <div className="section-pic-container">
+        <div className="section-pic-container about-pic-container">
           <img src={aboutPhoto} alt="Profile picture" className="about-pic" />
         </div>
         <div className="about-details-container">
