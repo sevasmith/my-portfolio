@@ -18,9 +18,10 @@ p {
   color: #555555;
 }
 
-a {
+a, button {
   color: #000000;
   cursor: pointer;
+  text-decoration: none;
 }
 
 
@@ -121,7 +122,8 @@ span {
 }
 
 .menu-links.open a {
-  max-height: 2rem;
+  max-height: 3rem;
+  padding: 1rem 0;
 }
 
 /* SECTION */
@@ -262,8 +264,10 @@ section {
 
 .about-details-container {
   display: flex;
+  margin: 0 auto;
   flex-direction: column;
   justify-content: center;
+  max-width: 610px;
 }
 
 .about-containers {
@@ -382,7 +386,7 @@ article {
   width: fit-content;
   height: fit-content;
   padding: 0.5rem;
-  border: 0.05rem solid #a3a3a3;
+  border: 0.1rem solid #a3a3a3;
   border-radius: 2rem;
   gap: 1rem;
 }

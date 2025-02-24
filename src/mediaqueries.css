@@ -16,6 +16,10 @@
     margin: 0 5%;
   }
 
+  .about-containers {
+    max-width: 610px;
+  }
+
   .section-container {
     display: block;
     height: fit-content;
@@ -47,7 +51,6 @@
 
   #profile {
     height: 83vh;
-    margin-bottom: 0;
   }
 
   .title {
@@ -59,6 +62,10 @@
     line-height: 2rem;
   }
 
+  .experience-details-container {
+    margin: 0;
+  }
+
   .section-pic-container {
     height: 46vw;
     width: auto;
@@ -66,7 +73,7 @@
   }
 
   .section-text-p2 {
-    font-size: 1.5rem;
+    font-size: 1.25rem;
   }
 
   .section-text {
