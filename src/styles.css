@@ -20,6 +20,7 @@ p {
 
 a, button {
   color: #000000;
+  font-weight: 400;
   cursor: pointer;
   text-decoration: none;
 }
@@ -43,7 +44,7 @@ nav {
 .nav-links {
   display: flex;
   justify-content: center;
-  gap: 1rem;
+  gap: 0.5rem;
 }
 
 .nav-links a {
@@ -388,7 +389,6 @@ article {
   padding: 0.5rem;
   border: 0.1rem solid #a3a3a3;
   border-radius: 2rem;
-  gap: 1rem;
 }
 
 .contact-info-container {
@@ -399,12 +399,9 @@ article {
   gap: 0.5rem;
 }
 
-.contact-info-container p {
-  font-size: larger;
-}
-
 .contact-info-container a {
   text-decoration: none;
+  font-size: larger;
 }
 
 .email-icon {
