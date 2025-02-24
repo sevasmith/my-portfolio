@@ -77,6 +77,10 @@
     justify-content: center;
   }
 
+  .about-pic-container {
+    height: 90vw;
+  }
+
   .section-text-p2 {
     font-size: 1.25rem;
   }
