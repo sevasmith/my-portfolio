@@ -21,7 +21,9 @@ export default function About() {
               <p>
                 Front-End Developer
                 <br />
-                Freelance | 1 year | 10+ projects
+                1 year
+                <br />
+                10+ projects
               </p>
             </div>
             <div className="details-container">
@@ -30,9 +32,9 @@ export default function About() {
               <p>
                 BA in Linguistics
                 <br />
-                Scrimba – React Course
+                LearnFrontEnd Course
                 <br />
-                freeCodeCamp – Front-End Development
+                Scrimba React Course
               </p>
             </div>
           </div>
