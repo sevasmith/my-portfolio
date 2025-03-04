@@ -11,6 +11,10 @@
     display: block;
   }
 
+  .about-pic-container {
+    display: none;
+  }
+
   a,
   button {
     font-size: 14px;
@@ -111,7 +115,7 @@
     margin: 0;
   }
 
-  .contact-info-container a{
+  .contact-info-container a {
     font-size: 1rem;
   }
 

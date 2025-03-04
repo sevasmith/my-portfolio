@@ -15,7 +15,7 @@ export default function Projects() {
             <div className="article-container">
               <img src={project1} className="project-img" alt="Project 1" />
             </div>
-            <h3 className="sub-title project-title">Project One</h3>
+            <h3 className="sub-title project-title">Weather App</h3>
             <div className="btn-container">
               <button
                 className="btn-color-1 project-btn"
@@ -35,7 +35,7 @@ export default function Projects() {
             <div className="article-container">
               <img src={project2} className="project-img" alt="Project 2" />
             </div>
-            <h3 className="sub-title project-title">Project Two</h3>
+            <h3 className="sub-title project-title">Tenzies Game</h3>
             <div className="btn-container">
               <button
                 className="btn-color-1 project-btn"
@@ -55,7 +55,7 @@ export default function Projects() {
             <div className="article-container">
               <img src={project3} className="project-img" alt="Project 3" />
             </div>
-            <h3 className="sub-title project-title">Project Three</h3>
+            <h3 className="sub-title project-title">Movie Buff Quiz</h3>
             <div className="btn-container">
               <button
                 className="btn-color-1 project-btn"

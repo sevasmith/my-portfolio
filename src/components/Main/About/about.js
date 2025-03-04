@@ -19,18 +19,20 @@ export default function About() {
               <img src={experience} alt="Experience icon" className="icon" />
               <h3>Experience</h3>
               <p>
-                1 year
+                Front-End Developer
                 <br />
-                Frontend&nbsp;Development
+                Freelance | 1 year | 10+ projects
               </p>
             </div>
             <div className="details-container">
               <img src={education} alt="Education icon" className="icon" />
               <h3>Education</h3>
               <p>
-                Frontend&nbsp;Courses
-                <br />
                 BA in Linguistics
+                <br />
+                Scrimba – React Course
+                <br />
+                freeCodeCamp – Front-End Development
               </p>
             </div>
           </div>
