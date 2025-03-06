@@ -105,7 +105,7 @@ span {
   position: absolute;
   padding: 0 0 10px 10px;
   background-color: #ffffff;
-  opacity: 0.8;
+  opacity: 0;
   gap: 0.5rem;
   top: 200%;
   right: 0;
@@ -120,6 +120,10 @@ span {
   color: #000000;
   cursor: pointer;
   transition: all 0.3s ease;
+}
+
+.menu-links.open {
+  opacity: 0.8;
 }
 
 .menu-links.open a {
