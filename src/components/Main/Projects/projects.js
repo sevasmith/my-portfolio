@@ -25,7 +25,7 @@ export default function Projects() {
               </button>
               <button
                 className="btn-color-1 project-btn"
-                onClick={() => window.open("https://sevasmith.github.io/weather-app/", "_blank")}
+                onClick={() => window.open("https://weather-app-sevasmith.vercel.app/", "_blank")}
               >
                 Live Demo
               </button>
@@ -45,7 +45,7 @@ export default function Projects() {
               </button>
               <button
                 className="btn-color-1 project-btn"
-                onClick={() => window.open("https://sevasmith.github.io/tenzies-game/", "_blank")}
+                onClick={() => window.open("https://tenzies-game-sevasmith.vercel.app/", "_blank")}
               >
                 Live Demo
               </button>
@@ -65,7 +65,7 @@ export default function Projects() {
               </button>
               <button
                 className="btn-color-1 project-btn"
-                onClick={() => window.open("https://sevasmith.github.io/movie-buff-quiz/", "_blank")}
+                onClick={() => window.open("https://movie-buff-quiz.vercel.app/", "_blank")}
               >
                 Live Demo
               </button>
