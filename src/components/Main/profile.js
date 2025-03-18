@@ -1,8 +1,8 @@
 import React from "react";
-import profilePhoto from "../../../assets/profile-pic.jpg";
-import resume from "../../../assets/resume.pdf";
-import linkedinIcon from "../../../assets/linkedin.png";
-import githubIcon from "../../../assets/github.png";
+import profilePhoto from "../../assets/profile-pic.jpg";
+import resume from "../../assets/resume.pdf";
+import linkedinIcon from "../../assets/linkedin.png";
+import githubIcon from "../../assets/github.png";
 
 export default function Profile() {
 

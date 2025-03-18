@@ -1,6 +1,6 @@
 import React from "react";
-import email from "../../../assets/email.png";
-import linkedinIcon from "../../../assets/linkedin.png";
+import email from "../../assets/email.png";
+import linkedinIcon from "../../assets/linkedin.png";
 
 export default function Contact() {
   return (

@@ -1,8 +1,8 @@
 import React from "react";
-import aboutPhoto from "../../../assets/about-pic.jpg";
-import experience from "../../../assets/experience.png";
-import education from "../../../assets/education.png";
-import arrow from "../../../assets/arrow.png";
+import aboutPhoto from "../../assets/about-pic.jpg";
+import experience from "../../assets/experience.png";
+import education from "../../assets/education.png";
+import arrow from "../../assets/arrow.png";
 
 export default function About() {
   return (

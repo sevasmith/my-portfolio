@@ -327,6 +327,7 @@ article {
   width: 10rem;
   gap: 1rem;
   justify-content: start;
+  align-items: center;
 }
 
 .experience-details-container {

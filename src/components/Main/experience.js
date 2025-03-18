@@ -1,6 +1,6 @@
 import React from "react";
-import checkmark from "../../../assets/checkmark.png";
-import arrow from "../../../assets/arrow.png";
+import checkmark from "../../assets/checkmark.png";
+import arrow from "../../assets/arrow.png";
 
 export default function Experience() {
   return (
@@ -12,18 +12,6 @@ export default function Experience() {
           <div className="details-container">
             <h2 className="sub-title">Frontend Development</h2>
             <div className="article-container">
-              <article>
-                <img src={checkmark} alt="Experience icon" className="icon" />
-                <div>
-                  <h3>React</h3>
-                </div>
-              </article>
-              <article>
-                <img src={checkmark} alt="Experience icon" className="icon" />
-                <div>
-                  <h3>JavaScript</h3>
-                </div>
-              </article>
               <article>
                 <img src={checkmark} alt="Experience icon" className="icon" />
                 <div>
@@ -39,13 +27,37 @@ export default function Experience() {
               <article>
                 <img src={checkmark} alt="Experience icon" className="icon" />
                 <div>
-                  <h3>Git</h3>
+                  <h3>JavaScript</h3>
                 </div>
               </article>
               <article>
                 <img src={checkmark} alt="Experience icon" className="icon" />
                 <div>
-                  <h3>GitHub</h3>
+                  <h3>React</h3>
+                </div>
+              </article>
+              <article>
+                <img src={checkmark} alt="Experience icon" className="icon" />
+                <div>
+                  <h3>Next.js</h3>
+                </div>
+              </article>
+              <article>
+                <img src={checkmark} alt="Experience icon" className="icon" />
+                <div>
+                  <h3>TypeScript</h3>
+                </div>
+              </article>
+              <article>
+                <img src={checkmark} alt="Experience icon" className="icon" />
+                <div>
+                  <h3>Tailwind&nbsp;CSS</h3>
+                </div>
+              </article>
+              <article>
+                <img src={checkmark} alt="Experience icon" className="icon" />
+                <div>
+                  <h3>Git</h3>
                 </div>
               </article>
             </div>
